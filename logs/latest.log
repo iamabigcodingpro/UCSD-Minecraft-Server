@@ -1,0 +1,79 @@
+[15:14:03] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.5.0.2; Homebrew Homebrew) on Mac OS X 26.5.2 (aarch64)
+[15:14:03] [ServerMain/INFO]: [bootstrap] Loading Paper 26.3-222-main@e3ba7b1 (2026-10-24T13:18:21Z) for Minecraft 26.3
+[15:14:03] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:14:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[15:14:05] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:14:05] [ServerMain/INFO]: [com.destroystokyo.paper.profile.PaperServicesDiscoveryService] Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[15:14:05] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 237.6ms
+[15:14:06] [Worker-Main-2/INFO]: Loaded 1866 advancements
+[15:14:06] [Server thread/INFO]: Starting minecraft server version 26.3
+[15:14:06] [Server thread/INFO]: Loading properties
+[15:14:06] [Server thread/INFO]: This server is running Paper version 26.3-222-main@e3ba7b1 (2026-10-24T13:18:21Z) (Implementing API version 26.3.build.222-stable)
+[15:14:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:14:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:14:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:14:06] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[15:14:07] [Server thread/INFO]: Default game type: SURVIVAL
+[15:14:07] [Server thread/INFO]: Generating keypair
+[15:14:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:14:07] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[15:14:07] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[15:14:07] [Server thread/INFO]: Preparing level "world"
+[15:14:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[15:14:07] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:14:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[15:14:07] [Server thread/INFO]: Prepared spawn area in 0 ms
+[15:14:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[15:14:07] [Server thread/INFO]: Preparing spawn area: 100%
+[15:14:07] [Server thread/INFO]: Prepared spawn area in 1 ms
+[15:14:07] [Server thread/INFO]: Done preparing level "world" (0.191s)
+[15:14:07] [Server thread/INFO]: [spark] Starting background profiler...
+[15:14:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:14:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:14:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:14:08] [Server thread/INFO]: Running delayed init tasks
+[15:14:08] [Server thread/INFO]: Done (5.395s)! For help, type "help"
+[15:14:40] [User Authenticator #0/INFO]: UUID of player LittleSquare is 0e4963a9-13ee-41f6-9e27-29b40243e92a
+[15:14:43] [Server thread/INFO]: System chat: LittleSquare joined the game
+[15:14:43] [Server thread/INFO]: LittleSquare[/127.0.0.1:54721] logged in with entity id 41 at ([minecraft:overworld]-9.5, 67.0, -1.5)
+[15:14:53] [Server thread/INFO]: LittleSquare lost connection: Disconnected
+[15:14:53] [Server thread/INFO]: System chat: LittleSquare left the game
+[15:19:13] [User Authenticator #1/INFO]: UUID of player LittleSquare is 0e4963a9-13ee-41f6-9e27-29b40243e92a
+[15:19:13] [Server thread/INFO]: System chat: LittleSquare joined the game
+[15:19:13] [Server thread/INFO]: LittleSquare[/127.0.0.1:54780] logged in with entity id 627 at ([minecraft:overworld]735.7788949778841, 78.34986474888066, 1167.5596048065163)
+[15:28:43] [Server thread/INFO]: LittleSquare lost connection: Disconnected
+[15:28:43] [Server thread/INFO]: System chat: LittleSquare left the game
+[15:32:40] [User Authenticator #2/INFO]: UUID of player LittleSquare is 0e4963a9-13ee-41f6-9e27-29b40243e92a
+[15:32:41] [Server thread/INFO]: System chat: LittleSquare joined the game
+[15:32:41] [Server thread/INFO]: LittleSquare[/127.0.0.1:55036] logged in with entity id 2167 at ([minecraft:overworld]923.4827931818131, 2.0, 904.4540082735901)
+[15:38:34] [Server thread/INFO]: LittleSquare issued server command: /weather clear
+[15:39:15] [Server thread/INFO]: LittleSquare lost connection: Disconnected
+[15:39:15] [Server thread/INFO]: System chat: LittleSquare left the game
+[16:04:08] [Server thread/INFO]: Stopping server
+[16:04:08] [Server thread/INFO]: Saving players
+[16:04:08] [Server thread/INFO]: Saving worlds
+[16:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.00s
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[16:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[16:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[16:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[16:04:08] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[16:04:08] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[16:04:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:04:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
