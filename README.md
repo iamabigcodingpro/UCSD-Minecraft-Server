@@ -1,6 +1,6 @@
 # UCSD 1:1 Minecraft Campus Project
 
-This repository contains the backend configuration to run a 1:1 scale replica of the UC San Diego campus in Minecraft. Follow the instructions below to generate the map, initialize the server, and host it for your friends using Playit.gg.
+This repository contains the backend configuration to run a 1:1 scale replica of the UC San Diego campus (or anyone other location on Earth) in Minecraft. Follow the instructions below to generate the map, initialize the server, and host it for your friends using Playit.gg.
 
 ## 1. Download the Project Files
 Clone this repository to your local machine using Git, or click the **Code** button at the top of this page and select **Download ZIP**. Extract the folder to an easily accessible location, such as your Desktop.
