@@ -10,20 +10,9 @@ Because map files are too large to host on GitHub, you must generate the 1:1 cam
 1. Download and install the [Arnis](https://github.com/) mapping tool.
 2. Select the UC San Diego geographical coordinates within the Arnis interface.
 3. Export the generated map to your computer. Keep track of this exported map folder.
+4. Replace "world" folder with generated Arnis map
 
-## 3. Server Initialization and World Replacement
-This project runs on PaperMC (Minecraft version 26.3).
-1. Download the **PaperMC 26.3** server executable (`paper.jar`) from the official PaperMC website.
-2. Place the `paper.jar` file inside your downloaded project folder.
-3. Open your computer's Terminal or Command Prompt, navigate to the project folder, and run the server using Java:
-   `java -Xmx4G -jar paper.jar nogui`
-4. The server will fail to start the first time and ask you to agree to the EULA. Open the newly generated `eula.txt` file and change `eula=false` to `eula=true`.
-5. Run the Java command again to fully initialize the server and generate the default folders. Once it says "Done", type `stop` in the Terminal to safely close the server.
-6. Delete the default `world` folder that PaperMC just generated.
-7. Move your Arnis-generated map folder into the server directory and rename it exactly to `world`.
-8. Start the server again. *Note: If PaperMC warns you about a "World storage migration," simply wait 30 seconds for it to automatically update the Arnis map to the newer format.*
-
-## 4. Setup Public Hosting with Playit.gg
+## 3. Setup Public Hosting with Playit.gg
 To let friends join without modifying your router's port forwarding settings, use the Playit.gg plugin.
 1. Download the **Playit.gg Minecraft Java plugin** (`.jar` format) from their official website.
 2. Drag the downloaded `.jar` file into your server's `plugins` folder.
@@ -32,7 +21,7 @@ To let friends join without modifying your router's port forwarding settings, us
 5. Copy the provided `https://playit.gg/claim/...` link and paste it into a web browser.
 6. Follow the web dashboard prompts to configure a Minecraft Java tunnel. Once finished, the dashboard will assign you a permanent public address (e.g., `word-word.auto.playit.gg`).
 
-## 5. Play with Friends
+## 4. Play with Friends
 Keep your Terminal open and the server running. Share your permanent Playit.gg public address with your friends. 
 1. Open Minecraft Java Edition **26.3**.
 2. Click **Multiplayer** -> **Direct Connection**.
