@@ -7,7 +7,7 @@ Clone this repository to your local machine using Git, or click the **Code** but
 
 ## 2. Generate the World using Arnis
 Because map files are too large to host on GitHub, you must generate the 1:1 campus map yourself.
-1. Download and install the [Arnis](https://github.com/) mapping tool.
+1. Download and install the [Arnis](https://arnismc.com/) mapping tool.
 2. Select the UC San Diego geographical coordinates within the Arnis interface.
 3. Export the generated map to your computer. Keep track of this exported map folder.
 4. Replace "world" folder with generated Arnis map
